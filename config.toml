@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Nope"
+baseURL = "https:\/\/nope.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "nope.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
